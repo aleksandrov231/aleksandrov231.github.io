@@ -59,8 +59,8 @@
   <h1>Свяжитесь с нами</h1>
   <div class="contact-info">
     <p>Телефон: <a href="tel:+79991234567">+7 (999) 123-45-67</a></p>
-    <p>Email: <a href="mailto:info@example.com">info@example.com</a></p>
-    <p>Адрес: Москва, ул. Примерная, 123</p>
+    <p>Email: <a href="mailtoaleksandrovmia">info@example.com</a></p>
+    <p>Адрес:casebatle</p>
   </div>
 </body>
 </html>
